@@ -64,6 +64,13 @@ Together, these strategies enabled accurate, interpretable, and segment-aware pr
 
 ---
 
+# 🚀 Live App
+
+Interact with the **Shield Insurance Premium Estimator**:  
+👉 [Open App](https://ml-project-premium-prediction-manoj.streamlit.app/)
+
+---
+
 ## Notebooks Overview & Recommended Order of Viewing
 
 Here’s the suggested order to explore the notebooks along with what each contains:
