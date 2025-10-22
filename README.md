@@ -1,7 +1,5 @@
 # Health Insurance Premium Prediction Project
 
-# Shield Insurance Premium Estimator
-
 ## Project Overview
 This project predicts health insurance premiums for a fictional company "Shield" given a person's attributes.  
 During development, extreme errors were found primarily in the young age group (<25). To address this, the solution involved:
@@ -63,6 +61,8 @@ During development, extreme errors were found primarily in the young age group (
 - XGBoost captured complex interactions with tuned hyperparameters  
 
 Together, these strategies enabled accurate, interpretable, and segment-aware premium prediction.
+
+---
 
 ## Notebooks Overview & Recommended Order of Viewing
 
